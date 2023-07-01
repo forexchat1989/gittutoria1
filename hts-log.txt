@@ -1,0 +1,250 @@
+HTTrack3.49-2 launched on Sat, 01 Jul 2023 10:26:46 at https://www.fixltd.co.uk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.fixltd.co.uk -O "/Users/godisgreat/websites/web.tutorial" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:27:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.fixltd.co.uk/wp-content/uploads/oxygen/css/kod-do-paska-przewijania2-1355.css?cache=1644311659&ver=6.2.2
+10:29:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-json/ (from https://www.fixltd.co.uk/)
+10:29:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:31:40	Error: 	"Forbidden" (403) at link https://www.fixltd.co.uk/blog/ (from https://www.fixltd.co.uk/)
+10:32:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:32:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-json/wp/v2/pages/304 (from https://www.fixltd.co.uk/about-us/)
+10:32:53	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=304
+10:32:53	Warning: 	File has moved from https://www.fixltd.co.uk/?p=304 to https://www.fixltd.co.uk/about-us/
+10:32:53	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=365
+10:32:53	Warning: 	File has moved from https://www.fixltd.co.uk/?p=365 to https://www.fixltd.co.uk/services/
+10:32:53	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=983
+10:32:53	Warning: 	File has moved from https://www.fixltd.co.uk/?p=983 to https://www.fixltd.co.uk/total-refurbishment/
+10:32:53	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=985
+10:32:53	Warning: 	File has moved from https://www.fixltd.co.uk/?p=985 to https://www.fixltd.co.uk/bathroom-fitting/
+10:32:53	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=987
+10:32:53	Warning: 	File has moved from https://www.fixltd.co.uk/?p=987 to https://www.fixltd.co.uk/kitchen-fitting/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=989
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=989 to https://www.fixltd.co.uk/plastering/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=991
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=991 to https://www.fixltd.co.uk/painting-and-decorating/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=993
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=993 to https://www.fixltd.co.uk/plumbing/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=995
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=995 to https://www.fixltd.co.uk/flooring/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=997
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=997 to https://www.fixltd.co.uk/joinery-carpentry/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=999
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=999 to https://www.fixltd.co.uk/gas-services/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1001
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1001 to https://www.fixltd.co.uk/electrical-services/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1006
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1006 to https://www.fixltd.co.uk/roofing-and-gutters/
+10:33:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1008
+10:33:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1008 to https://www.fixltd.co.uk/maintenance/
+10:33:12	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1010
+10:33:12	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1010 to https://www.fixltd.co.uk/loft-conversions/
+10:33:12	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1012
+10:33:12	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1012 to https://www.fixltd.co.uk/basement-conversions/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1014
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1014 to https://www.fixltd.co.uk/garage-remodel/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1016
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1016 to https://www.fixltd.co.uk/damp-proofing/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1018
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1018 to https://www.fixltd.co.uk/general-building/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1020
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1020 to https://www.fixltd.co.uk/gardens/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1369
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1369 to https://www.fixltd.co.uk/steel-beam-installation/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1397
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1397 to https://www.fixltd.co.uk/steel-beam-installation-edinburgh/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1022
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1022 to https://www.fixltd.co.uk/commercial-offices/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1025
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1025 to https://www.fixltd.co.uk/home-staging/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1027
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1027 to https://www.fixltd.co.uk/home-inspections/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=260
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=260 to https://www.fixltd.co.uk/careers/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=255
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=255 to https://www.fixltd.co.uk/contact-us/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1034
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1034 to https://www.fixltd.co.uk/tiling-2/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=568
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=568 to https://www.fixltd.co.uk/offer/
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=653
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=653 to https://www.fixltd.co.uk/our-work/
+10:33:19	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:33:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=292
+10:33:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=292 to https://www.fixltd.co.uk/cost-of-house-renovation/
+10:33:40	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1277
+10:33:40	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1277 to https://www.fixltd.co.uk/8-classic-kitchen-renovation-ideas-kitchen-fitting-glasgow/
+10:33:40	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=282
+10:33:40	Warning: 	File has moved from https://www.fixltd.co.uk/?p=282 to https://www.fixltd.co.uk/welcome-on-renovation-company-blog/
+10:33:45	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1224
+10:33:45	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1224 to https://www.fixltd.co.uk/how-much-does-a-basement-conversion-cost/
+10:33:45	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1301
+10:33:45	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1301 to https://www.fixltd.co.uk/how-to-remodel-a-bathroom-on-a-budget/
+10:33:45	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1287
+10:33:45	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1287 to https://www.fixltd.co.uk/5-ideas-for-a-basement-conversion/
+10:33:45	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=298
+10:33:45	Warning: 	File has moved from https://www.fixltd.co.uk/?p=298 to https://www.fixltd.co.uk/flooring-services-glasgow/
+10:33:45	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=289
+10:33:45	Warning: 	File has moved from https://www.fixltd.co.uk/?p=289 to https://www.fixltd.co.uk/how-to-renovate-a-house/
+10:33:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+10:34:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+10:36:24	Warning: 	HTML file (188292 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/wp-json/
+10:36:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:37:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/js/owl.carousel.min.js?ver=2.3.4
+10:37:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-includes/wlwmanifest.xml (from https://www.fixltd.co.uk/)
+10:37:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/js/jquery.magnific-popup.js?ver=1.1.0
+10:37:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7
+10:37:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7
+10:37:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/js/flickity.pkgd.min.js?ver=2.2.1
+10:37:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js?render=6LfHV9QUAAAAAM6B_AUM_Wlha32BmZWQHxxP-5i_&ver=3.0
+10:38:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/js/countUp.min.js?ver=6.2.2
+10:38:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/js/jquery.waypoints.min.js?ver=6.2.2
+10:38:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/js/smooth-scrolling.js?ver=1.0.0
+10:38:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+10:38:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+10:38:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+10:38:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7
+10:38:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/oxygen/component-framework/vendor/unslider/unslider-min.js?ver=6.2.2
+10:38:09	Warning: 	HTML file (188292 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/wp-json/
+10:38:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/oxygen/component-framework/vendor/unslider/jquery.event.swipe.js?ver=6.2.2
+10:38:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/oxygen/component-framework/vendor/unslider/jquery.event.move.js?ver=6.2.2
+10:38:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.fixltd.co.uk/wp-content/plugins/oxygen/component-framework/vendor/aos/aos.js?ver=1
+10:41:44	Warning: 	HTML file (918 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/cost-of-house-renovation/feed/
+10:41:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:41:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-content/uploads/2019/10/favicon-fix.png (from https://www.fixltd.co.uk/about-us/)
+10:41:48	Warning: 	HTML file (1020 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/8-classic-kitchen-renovation-ideas-kitchen-fitting-glasgow/feed/
+10:41:50	Warning: 	HTML file (947 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/welcome-on-renovation-company-blog/feed/
+10:41:51	Warning: 	HTML file (956 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/how-much-does-a-basement-conversion-cost/feed/
+10:41:53	Warning: 	HTML file (946 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/how-to-remodel-a-bathroom-on-a-budget/feed/
+10:41:55	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=365
+10:41:55	Warning: 	HTML file (934 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/5-ideas-for-a-basement-conversion/feed/
+10:41:56	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=365
+10:41:56	Warning: 	File has moved from https://www.fixltd.co.uk/?p=365 to https://www.fixltd.co.uk/services/
+10:41:59	Warning: 	HTML file (951 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/flooring-services-glasgow/feed/
+10:42:00	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=983
+10:42:01	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=983
+10:42:01	Warning: 	File has moved from https://www.fixltd.co.uk/?p=983 to https://www.fixltd.co.uk/total-refurbishment/
+10:42:31	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=985
+10:42:33	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=985
+10:42:33	Warning: 	File has moved from https://www.fixltd.co.uk/?p=985 to https://www.fixltd.co.uk/bathroom-fitting/
+10:42:33	Warning: 	HTML file (952 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/how-to-renovate-a-house/feed/
+10:42:36	Warning: 	HTML file (781 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=987
+10:42:37	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=987
+10:42:37	Warning: 	File has moved from https://www.fixltd.co.uk/?p=987 to https://www.fixltd.co.uk/kitchen-fitting/
+10:42:59	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=989
+10:43:00	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=989
+10:43:00	Warning: 	File has moved from https://www.fixltd.co.uk/?p=989 to https://www.fixltd.co.uk/plastering/
+10:43:01	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=991
+10:43:02	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=991
+10:43:02	Warning: 	File has moved from https://www.fixltd.co.uk/?p=991 to https://www.fixltd.co.uk/painting-and-decorating/
+10:43:02	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=993
+10:43:03	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=993
+10:43:03	Warning: 	File has moved from https://www.fixltd.co.uk/?p=993 to https://www.fixltd.co.uk/plumbing/
+10:43:04	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=995
+10:43:05	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=995
+10:43:05	Warning: 	File has moved from https://www.fixltd.co.uk/?p=995 to https://www.fixltd.co.uk/flooring/
+10:43:06	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=997
+10:43:07	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=997
+10:43:07	Warning: 	File has moved from https://www.fixltd.co.uk/?p=997 to https://www.fixltd.co.uk/joinery-carpentry/
+10:43:08	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=999
+10:43:09	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=999
+10:43:09	Warning: 	File has moved from https://www.fixltd.co.uk/?p=999 to https://www.fixltd.co.uk/gas-services/
+10:43:10	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1001
+10:43:11	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1001
+10:43:11	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1001 to https://www.fixltd.co.uk/electrical-services/
+10:43:12	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1006
+10:43:13	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1006
+10:43:13	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1006 to https://www.fixltd.co.uk/roofing-and-gutters/
+10:43:14	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1008
+10:43:15	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1008
+10:43:15	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1008 to https://www.fixltd.co.uk/maintenance/
+10:43:16	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1010
+10:43:17	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1010
+10:43:17	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1010 to https://www.fixltd.co.uk/loft-conversions/
+10:43:18	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1012
+10:43:19	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1012
+10:43:19	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1012 to https://www.fixltd.co.uk/basement-conversions/
+10:43:20	Warning: 	HTML file (781 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1014
+10:43:21	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1014
+10:43:21	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1014 to https://www.fixltd.co.uk/garage-remodel/
+10:43:22	Warning: 	HTML file (779 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1016
+10:43:23	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1016
+10:43:23	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1016 to https://www.fixltd.co.uk/damp-proofing/
+10:43:24	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1018
+10:43:25	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1018
+10:43:25	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1018 to https://www.fixltd.co.uk/general-building/
+10:43:26	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1020
+10:43:27	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1020
+10:43:27	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1020 to https://www.fixltd.co.uk/gardens/
+10:43:28	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1369
+10:43:29	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1369
+10:43:29	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1369 to https://www.fixltd.co.uk/steel-beam-installation/
+10:43:29	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1397
+10:43:30	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1397
+10:43:30	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1397 to https://www.fixltd.co.uk/steel-beam-installation-edinburgh/
+10:43:30	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1022
+10:43:31	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1022
+10:43:31	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1022 to https://www.fixltd.co.uk/commercial-offices/
+10:43:32	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1025
+10:43:33	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1025
+10:43:33	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1025 to https://www.fixltd.co.uk/home-staging/
+10:43:34	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1027
+10:43:35	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1027
+10:43:35	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1027 to https://www.fixltd.co.uk/home-inspections/
+10:43:36	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=260
+10:43:37	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=260
+10:43:37	Warning: 	File has moved from https://www.fixltd.co.uk/?p=260 to https://www.fixltd.co.uk/careers/
+10:43:38	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=255
+10:43:39	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=255
+10:43:39	Warning: 	File has moved from https://www.fixltd.co.uk/?p=255 to https://www.fixltd.co.uk/contact-us/
+10:43:39	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1034
+10:43:40	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1034
+10:43:40	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1034 to https://www.fixltd.co.uk/tiling-2/
+10:43:41	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=568
+10:43:42	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=568
+10:43:42	Warning: 	File has moved from https://www.fixltd.co.uk/?p=568 to https://www.fixltd.co.uk/offer/
+10:43:42	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=653
+10:43:43	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=653
+10:43:43	Warning: 	File has moved from https://www.fixltd.co.uk/?p=653 to https://www.fixltd.co.uk/our-work/
+10:43:44	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=292
+10:43:45	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=292
+10:43:45	Warning: 	File has moved from https://www.fixltd.co.uk/?p=292 to https://www.fixltd.co.uk/cost-of-house-renovation/
+10:43:46	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1277
+10:43:47	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1277
+10:43:47	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1277 to https://www.fixltd.co.uk/8-classic-kitchen-renovation-ideas-kitchen-fitting-glasgow/
+10:43:47	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=282
+10:43:48	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=282
+10:43:48	Warning: 	File has moved from https://www.fixltd.co.uk/?p=282 to https://www.fixltd.co.uk/welcome-on-renovation-company-blog/
+10:43:48	Warning: 	HTML file (59790 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/how-to-renovate-a-house/
+10:43:49	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1224
+10:43:50	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1224
+10:43:50	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1224 to https://www.fixltd.co.uk/how-much-does-a-basement-conversion-cost/
+10:43:50	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1301
+10:43:51	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1301
+10:43:51	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1301 to https://www.fixltd.co.uk/how-to-remodel-a-bathroom-on-a-budget/
+10:43:51	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=1287
+10:43:52	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=1287
+10:43:52	Warning: 	File has moved from https://www.fixltd.co.uk/?p=1287 to https://www.fixltd.co.uk/5-ideas-for-a-basement-conversion/
+10:43:52	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=298
+10:43:53	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=298
+10:43:53	Warning: 	File has moved from https://www.fixltd.co.uk/?p=298 to https://www.fixltd.co.uk/flooring-services-glasgow/
+10:43:53	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://www.fixltd.co.uk/?p=289
+10:43:54	Warning: 	Moved Permanently for https://www.fixltd.co.uk/?p=289
+10:43:54	Warning: 	File has moved from https://www.fixltd.co.uk/?p=289 to https://www.fixltd.co.uk/how-to-renovate-a-house/
+10:43:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/css/owl.video.play.png (from https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/css/owl.carousel.min.css?ver=2.3.4)
+10:43:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:43:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-includes/wlwmanifest.xml (from https://www.fixltd.co.uk/)
+10:43:57	Error: 	"Not Found" (404) at link www.fixltd.co.uk/wp-content/uploads/oxygen/css/color(9 (from www.fixltd.co.uk/wp-content/uploads/oxygen/css/universal.css?cache=1658818177&ver=6.2.2)
+10:43:57	Error: 	"Not Found" (404) at link https://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd (from https://fixltd.co.uk/wp-content/uploads/svg/LOGO-FIX.svg)
+10:43:57	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:43:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fixltd.co.uk%2Fhow-to-renovate-a-house%2F&format=xml (from https://www.fixltd.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fixltd.co.uk%2Fhow-to-renovate-a-house%2F&format=xml)
+10:43:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/css/owl.video.play.png (from https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/css/owl.carousel.min.css?ver=2.3.4)
+10:43:58	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.fixltd.co.uk/xmlrpc.php?rsd (from https://www.fixltd.co.uk/)
+10:43:58	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.fixltd.co.uk/wp-includes/wlwmanifest.xml (from https://www.fixltd.co.uk/)
+10:43:58	Error: 	"Not Found" (404) at link https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/css/owl.video.play.png (from https://www.fixltd.co.uk/wp-content/plugins/my-custom-functionality-master/assets/css/owl.carousel.min.css?ver=2.3.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 12 seconds : 531 links scanned, 536 files written (39912803 bytes overall) [28614269 bytes received at 27727 bytes/sec], 4840171 bytes transferred using HTTP compression in 275 files, ratio 26%, 3.3 requests per connection
+(8 errors, 231 warnings, 0 messages)
